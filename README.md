@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://shipgenai.org">
-  <img src="https://img.shields.io/badge/🌐_Website-shipgenai.org-006994?style=for-the-badge&labelColor=003D5C" alt="ShipGenAI Website">
+<a href="https://shipgenai.site/">
+  <img src="https://img.shields.io/badge/🌐_Website-shipgenai.site-006994?style=for-the-badge&labelColor=003D5C" alt="ShipGenAI Website">
 </a>
 
 <br/><br/>
@@ -11,7 +11,7 @@
 ### *50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue.*
 
 <p>
-  <a href="https://shipgenai.org"><strong>shipgenai.org</strong></a> ·
+  <a href="https://shipgenai.site/"><strong>shipgenai.site</strong></a> ·
   <a href="#-quick-start">Quick Start</a> ·
   <a href="#-open-source-ai-platforms">Platforms</a> ·
   <a href="#-image-generation">Image</a> ·
@@ -47,7 +47,7 @@
 
 ## 💡 What is ShipGenAI?
 
-**[ShipGenAI](https://shipgenai.org)** is a curated collection of **50 complete, production-ready AI SaaS products** you can launch under your own brand — this weekend.
+**[ShipGenAI](https://shipgenai.site/)** is a curated collection of **50 complete, production-ready AI SaaS products** you can launch under your own brand — this weekend.
 
 Each app ships with:
 - 💳 **Stripe checkout + webhooks** — credit-based billing, webhook confirmation, automatic credit deduction
@@ -57,7 +57,7 @@ Each app ships with:
 - 🗄️ **Prisma + PostgreSQL** — users, credits, and job history out of the box
 - 🆓 **MIT licensed** — sell it, white-label it, charge whatever you want
 
-> **Explore all apps → [shipgenai.org](https://shipgenai.org)**
+> **Explore all apps → [shipgenai.site](https://shipgenai.site/)**
 
 ---
 
@@ -271,7 +271,7 @@ Found a new AI SaaS template worth adding? Open a PR! We welcome:
 
 ## 📄 License
 
-MIT © [ShipGenAI](https://shipgenai.org) — fork it, brand it, sell it, keep everything.
+MIT © [ShipGenAI](https://shipgenai.site/) — fork it, brand it, sell it, keep everything.
 
 ---
 
@@ -279,8 +279,8 @@ MIT © [ShipGenAI](https://shipgenai.org) — fork it, brand it, sell it, keep e
 
 **Built for indie founders who want to ship fast and own their revenue.**
 
-<a href="https://shipgenai.org">
-  <img src="https://img.shields.io/badge/🚀_Explore_All_Apps-shipgenai.org-006994?style=for-the-badge&labelColor=003D5C" alt="Visit ShipGenAI">
+<a href="https://shipgenai.site/">
+  <img src="https://img.shields.io/badge/🚀_Explore_All_Apps-shipgenai.site-006994?style=for-the-badge&labelColor=003D5C" alt="Visit ShipGenAI">
 </a>
 
 <br/><br/>
